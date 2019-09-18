@@ -1,0 +1,8 @@
+class D{
+
+int ;
+int;
+int;
+
+
+}
